@@ -127,6 +127,8 @@ cd /somewhere/you/want/
 
 # Download
 wget http://big.hanyang.ac.kr/ETCHING/PGK2.tar.gz
+# Alternatively, we also provide PGK2 at Amazon S3 repository
+# https://biglabhyu.s3.amazonaws.com/ETCHING/PGK2.tar.gz
 
 # Decompress
 tar zxvf PGK2.tar.gz
